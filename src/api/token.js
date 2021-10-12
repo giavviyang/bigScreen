@@ -1,0 +1,5 @@
+
+const token={
+    userToken:'eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6ImIzYzhiMWM5LTg0YmMtNGZjYS04OTdkLTg5MWVkYjU2MmU5NyJ9.qanihzvszRsscbBJRhjq4b4YkZ-dF_m2YG2biSzmjFEuq0-g1FxkkKmR0KuAmFS4HW2ve8TudV8pUAhuBzo8Jw'
+}
+export default token

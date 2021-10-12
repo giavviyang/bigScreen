@@ -1,0 +1,37 @@
+{
+  "id": "2825873",
+  "name": "fullScreen",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8453450",
+      "name": "报警",
+      "font_class": "baojing",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "15138182",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "22175949",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "24380364",
+      "name": "退出",
+      "font_class": "tuichu1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}
